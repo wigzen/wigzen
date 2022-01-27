@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wigzen&label=Profile%20views&color=blueviolet&style=flat" alt="wigzen" /> </p>
+
 ![](https://hit.yhype.me/github/profile?user_id=61306958)
 
 - 🌱 I’m currently learning **React and AI**
