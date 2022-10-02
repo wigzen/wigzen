@@ -5,7 +5,7 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=61306958)
 
-- 🌱 I’m currently learning **React and AI**
+- 🌱 [My portfolio](https://wigzen.github.io/wigzen.io/) 
 
 - 👯 I’m looking to collaborate on **Yoga With AI**
 
