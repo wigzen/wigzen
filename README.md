@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Yoga With AI**
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **React, Vue ,Python**
 
 - 📫 How to reach me **vikaslodh2@gmail.com**
 
